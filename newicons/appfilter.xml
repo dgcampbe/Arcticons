@@ -78168,6 +78168,30 @@
 	<!-- 清浊 -->
 	<item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.SplashActivity}" drawable="farplace"/>
 
+	<!-- AlloCiné -->
+	<item component="ComponentInfo{com.allocine.androidapp/com.allocine.archibien.base.activities.SplashActivity}" drawable="allocine"/>
+
+	<!-- Indy -->
+	<item component="ComponentInfo{fr.indy.compta/fr.indy.compta.MainActivity}" drawable="indy"/>
+
+	<!-- M'Ticket TaM -->
+	<item component="ComponentInfo{com.tam_way.mobiletickets/com.tam_way.mobiletickets.MainActivity}" drawable="m_ticket_tam"/>
+
+	<!-- Malakoff Humanis -->
+	<item component="ComponentInfo{com.malakoffhumanis.espaceclient/com.malakoffhumanis.espaceclient.app.splash.SplashScreenActivity}" drawable="malakoff_humanis"/>
+
+	<!-- QuaX -->
+	<item component="ComponentInfo{com.teskann.quax/com.teskann.quax.MainActivity}" drawable="quax"/>
+
+	<!-- Artly -->
+	<item component="ComponentInfo{com.pavelkozemirov.guesstheartist/com.pavelkozemirov.guesstheartist.SplashActivity}" drawable="artly"/>
+
+	<!-- Ginkgo Art -->
+	<item component="ComponentInfo{com.ginkgoacademy.art/com.ginkgoacademy.art.MainActivity}" drawable="ginkgo_art"/>
+
+	<!-- Le Conjugueur -->
+	<item component="ComponentInfo{com.leconjugueur.droid/com.leconjugueur.MainActivity}" drawable="le_conjugueur"/>
+
 	<!-- 継続する技術 -->
 	<item component="ComponentInfo{jp.bondavi.consistency/jp.bondavi.consistency.Activities.TabActivity}" drawable="circle"/>
 
@@ -78301,29 +78325,5 @@
 
 	<!-- 献血Web会員サービス ラブラッド -->
 	<item component="ComponentInfo{jp.kenketsu.blood_donation_card/com.example.blood_donor_card.MainActivity}" drawable="cross"/>
-
-	<!-- AlloCiné -->
-	<item component="ComponentInfo{com.allocine.androidapp/com.allocine.archibien.base.activities.SplashActivity}" drawable="allocine"/>
-
-	<!-- Indy -->
-	<item component="ComponentInfo{fr.indy.compta/fr.indy.compta.MainActivity}" drawable="indy"/>
-
-	<!-- M'Ticket TaM -->
-	<item component="ComponentInfo{com.tam_way.mobiletickets/com.tam_way.mobiletickets.MainActivity}" drawable="m_ticket_tam"/>
-
-	<!-- Malakoff Humanis -->
-	<item component="ComponentInfo{com.malakoffhumanis.espaceclient/com.malakoffhumanis.espaceclient.app.splash.SplashScreenActivity}" drawable="malakoff_humanis"/>
-
-	<!-- QuaX -->
-	<item component="ComponentInfo{com.teskann.quax/com.teskann.quax.MainActivity}" drawable="quax"/>
-
-	<!-- Artly -->
-	<item component="ComponentInfo{com.pavelkozemirov.guesstheartist/com.pavelkozemirov.guesstheartist.SplashActivity}" drawable="artly"/>
-
-	<!-- Ginkgo Art -->
-	<item component="ComponentInfo{com.ginkgoacademy.art/com.ginkgoacademy.art.MainActivity}" drawable="ginkgo_art"/>
-
-	<!-- Le Conjugueur -->
-	<item component="ComponentInfo{com.leconjugueur.droid/com.leconjugueur.MainActivity}" drawable="le_conjugueur"/>
 
 </resources>
